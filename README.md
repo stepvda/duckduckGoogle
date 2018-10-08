@@ -13,4 +13,3 @@ Still to do:
 - [ ] add google branding to the new search button
 - [ ] add search buttons to other resluts pages (images, videos, ...)
 - [ ] add into chrome extension for easy deployment so you don't need userscripts.
-
